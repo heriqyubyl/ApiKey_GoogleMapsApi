@@ -1,3 +1,3 @@
-# ApiKey_MapsGoogle
+# ApiKey_GoogleMapsApi
 
 AIzaSyB2t4hOvy4D0fX0nb8T_By3xp4ibdkjWTQ
